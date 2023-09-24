@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/yt-app/static/js/main.ce13a95b.js",
+    "index.html": "/yt-app/index.html",
+    "main.ce13a95b.js.map": "/yt-app/static/js/main.ce13a95b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ce13a95b.js"
+  ]
+}
